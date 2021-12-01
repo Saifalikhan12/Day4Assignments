@@ -1,0 +1,17 @@
+total 21
+-rwxr-xr-x 1 InfoGalaxy 197121 337 Nov 23 16:08 dayMonth.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 288 Nov 23 16:51 displayOnetoThousand.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 383 Nov 23 16:27 displayWeekDay.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 424 Nov 23 16:46 displayWeekDaySC.sh*
+-rw-r--r-- 1 InfoGalaxy 197121   0 Nov 23 18:42 file.txt
+-rwxr-xr-x 1 InfoGalaxy 197121 120 Nov 23 12:19 get2DiceNo.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 995 Nov 23 17:37 greaterSmaller5No.sh*
+-rw-r--r-- 1 InfoGalaxy 197121 102 Nov 23 16:52 headTail.sh
+-rwxr-xr-x 1 InfoGalaxy 197121 133 Nov 23 16:13 leapYear.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 733 Nov 23 16:36 maxminArth.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 462 Nov 23 16:25 singleDigit.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121  48 Nov 23 10:20 singleDigitRandomNo.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 314 Nov 23 16:43 singleDigitSC.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 189 Nov 23 11:55 sum2RandomDiceNo.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 368 Nov 23 14:56 sumAvg5RandomNo.sh*
+-rwxr-xr-x 1 InfoGalaxy 197121 321 Nov 23 15:07 unitConversion.sh*
